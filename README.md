@@ -16,9 +16,6 @@ In this project we have used Convolutional Neural Network to first train the mod
 ## Flask Folder
 - https://drive.google.com/drive/folders/1a6VhgaR2KZcKGkynQw4bOISLd3IT917m?usp=sharing
 
-## Model Building
-- https://drive.google.com/file/d/1uYexf8gLwqDxKRuUCAonM81mnIRxPoMv/view?usp=sharing
-
 ## Dataset
 - https://drive.google.com/drive/folders/1FdfEE_22aEwAQ6UCtnPvUhznpmM4z09v?usp=sharing
 
